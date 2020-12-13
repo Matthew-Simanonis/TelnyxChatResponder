@@ -15,7 +15,7 @@ Create a .env file in the root folder to hold Global Variables, TELNYX_API_KEY, 
 
 Find your Telnyx API Key and Telnyx Public Key and add them to the .env file. Feel free to change the port if needed.
 
-### Running the Server
+## Running the Server
 
 Start the Flask server by running 'python application.py' in the terminal.
 
