@@ -1,0 +1,4 @@
+flask
+node
+npm
+telnyx
