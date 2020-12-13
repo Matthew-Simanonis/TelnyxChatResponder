@@ -1,4 +1,7 @@
 flask
-node
-npm
+dotenv
 telnyx
+ngrok
+os
+requests
+flask_ngrok
